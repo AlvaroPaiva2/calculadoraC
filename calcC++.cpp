@@ -34,7 +34,7 @@ int main() {
                 cout << "Erro: Divisao por zero." << endl;
             break;
         default:
-            cout << "Operador inválido." << endl;
+            cout << "Operador invalido." << endl;
             break;
     }
 
